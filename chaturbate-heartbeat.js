@@ -72,5 +72,5 @@ class ChaturbateInfo extends PolymerElement {
   }
 }
 
-window.customElements.define('chaturbate-hearts', ChaturbateInfo);
+window.customElements.define('chaturbate-heartbeat', ChaturbateInfo);
 
